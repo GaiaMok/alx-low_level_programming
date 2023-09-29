@@ -2,7 +2,6 @@
 
 /**
  * _sqrt_a - returns the square root
- * @n: number
  * @a: variable 1
  * @b: variable 2
  * Return: natural square root of a number
